@@ -1,0 +1,65 @@
+<?php 
+
+include "/etc/DatosLocales.php";
+
+//Conectar a LDAP
+
+// LDAP variables
+$ldaphost = $HOST;  // your ldap servers
+$ldapport = $PORT;  // your ldap server's port number
+$basedn="ou=Alumnes,ou=All,dc=iesebre,dc=com";
+
+// Connecting to LDAP
+$ldapconn = ldap_connect($ldaphost, $ldapport)
+          or die("Could not connect to $ldaphost");
+          
+ldap_set_option($ldapconn, LDAP_OPT_PROTOCOL_VERSION, 3); // Para usar el protocolo 3 de LDAP
+
+        
+if ( $ldapconn ) {
+	echo "Conectado!\n";
+	// binding to ldap server
+	$ldaprdn=$DN;
+	$ldappass=$PASS;
+    $ldapbind = ldap_bind($ldapconn, $ldaprdn, $ldappass);
+
+    // verify binding
+    if ($ldapbind) {
+        echo "Bindado!\n";
+    } else {
+        echo "Error en Bindado!\n";
+    }
+}
+
+$sr=ldap_search($ldapconn, $basedn , "(physicalDeliveryOfficeName=*)", array("physicalDeliveryOfficeName"));
+
+ldap_sort ( $ldapconn , $sr , "physicalDeliveryOfficeName");
+
+$info = ldap_get_entries($ldapconn, $sr);
+
+echo $info["count"]." Grupos\n\n";
+$ContadorTotal=0;
+$ContadorAlumnos=0;
+
+for ($i=0; $i<$info["count"]; $i++  ) { 
+	echo "Grupo: ". $info[$i]["physicaldeliveryofficename"][0] ." ( ". $info[$i]["dn"] ." )\n";
+	
+	$basedn2=$info[$i]["dn"];
+	$sr2=ldap_search($ldapconn, $basedn2 , "(objectClass=posixaccount)", array("cn","jpegphoto"));
+	$info2 = ldap_get_entries($ldapconn, $sr2);
+	
+	for ($i2=0; $i2<$info2["count"]; $i2++  ) { 
+		$ContadorAlumnos++;
+		if (in_array("jpegphoto", $info2[$i2])) {
+			} else {
+				echo "      Alumno sin foto: " . $info2[$i2]["cn"][0] ."\n";
+				$ContadorTotal++;
+			}
+	}
+	
+}
+
+echo "\nTotal: " . $ContadorTotal ." alumnos sin foto\n";
+echo "Total: " . $ContadorAlumnos ." alumnos\n";
+echo "Finalizado\n";
+?>

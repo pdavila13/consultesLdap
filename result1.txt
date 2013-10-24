@@ -1,0 +1,1130 @@
+Login correct
+/home/sergi/prova/TIC2011-12/IME de Màq. i conduc. de línies/47828921F.png
+Searching DNI: 47828921F... dn is: cn=Marc Carbo Casademunt,ou=people,ou=Curs 1,ou=Instal·la. i manten. electrome. de màquines i conducció líni,ou=Manteniment i serveis a la producció,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/IME de Màq. i conduc. de línies/47827284A.png
+Searching DNI: 47827284A... dn is: cn=David Gomez Martin,ou=people,ou=Curs 1,ou=Instal·la. i manten. electrome. de màquines i conducció líni,ou=Manteniment i serveis a la producció,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/IME de Màq. i conduc. de línies/47476576E.png
+Searching DNI: 47476576E... dn is: cn=Jordi Busquets Meneses,ou=people,ou=Curs 1,ou=Instal·la. i manten. electrome. de màquines i conducció líni,ou=Manteniment i serveis a la producció,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/IME de Màq. i conduc. de línies/47829565F.png
+Searching DNI: 47829565F...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/IME de Màq. i conduc. de línies/47829565F.png
+/home/sergi/prova/TIC2011-12/IME de Màq. i conduc. de línies/Y0276795G.png
+Searching DNI: Y0276795G... dn is: cn=Hassan El Baghati,ou=people,ou=Curs 1,ou=Instal·la. i manten. electrome. de màquines i conducció líni,ou=Manteniment i serveis a la producció,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/IME de Màq. i conduc. de línies/47937168Q.png
+Searching DNI: 47937168Q... dn is: cn=Arnau Carles Subirats,ou=people,ou=Curs 1,ou=Instal·la. i manten. electrome. de màquines i conducció líni,ou=Manteniment i serveis a la producció,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/IME de Màq. i conduc. de línies/47620821D.png
+Searching DNI: 47620821D...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/IME de Màq. i conduc. de línies/47620821D.png
+/home/sergi/prova/TIC2011-12/Comerç/47823078Y.png
+Searching DNI: 47823078Y... dn is: cn=Pau Guzmán Miralles,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/X4945435K.png
+Searching DNI: X4945435K... dn is: cn=Marat Butaev,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/47860735N.png
+Searching DNI: 47860735N... dn is: cn=Josep Maria Balague Gonzalez,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/47937003N.png
+Searching DNI: 47937003N... dn is: cn=Edgar Cazaux Ginovart,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/47936942C.png
+Searching DNI: 47936942C... dn is: cn=Sonia Asensio Ferré,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/47475428R.png
+Searching DNI: 47475428R... dn is: cn=Alba Fornos Duran,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/X7931012Z.png
+Searching DNI: X7931012Z... dn is: cn=Jeny Marciela Chavez Zelaya,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/47859474Q.png
+Searching DNI: 47859474Q... dn is: cn=Maria del Carme Viura Pellisa,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/47827745G.png
+Searching DNI: 47827745G... dn is: cn=Aitor Ponce Vidal,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/40827650D.png
+Searching DNI: 40827650D... dn is: cn=Oscar Felipe Mancera Gantiva,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/47937919P.png
+Searching DNI: 47937919P... dn is: cn=Lleona Pooley Griño,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/X5621319G.png
+Searching DNI: X5621319G... dn is: cn=Malika Basiyd,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/40930597G.png
+Searching DNI: 40930597G... dn is: cn=Rosa Ana Pons bertomeu,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/Y1656388B.png
+Searching DNI: Y1656388B... dn is: cn=Mirta Elisabeth Gómez,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/Y0086277H.png
+Searching DNI: Y0086277H... dn is: cn=Roberto Wijts,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/47594620F.png
+Searching DNI: 47594620F... dn is: cn=Jordi Tortosa Serrano,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/47937738B.png
+Searching DNI: 47937738B... dn is: cn=Ruth Rodriguez Ros,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/Y1559520L.png
+Searching DNI: Y1559520L... dn is: cn=Hassnae Boyohou Skali,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/47827909F.png
+Searching DNI: 47827909F... dn is: cn=Cinta Aspa Abella,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/47824669X.png
+Searching DNI: 47824669X... dn is: cn=Judith Piñol Juan,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Comerç/X7341356D.png
+Searching DNI: X7341356D...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Comerç/X7341356D.png
+/home/sergi/prova/TIC2011-12/Comerç/47824058C.png
+Searching DNI: 47824058C... dn is: cn=Marc Rambla Subirats,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/40922108W.png
+Searching DNI: 40922108W... dn is: cn=Maria Elena Boix Matamoros,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47627935H.png
+Searching DNI: 47627935H... dn is: cn=Estefania Curto Temprado,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/X3899799B.png
+Searching DNI: X3899799B... dn is: cn=Marian Daniela Arias Vega,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47859075P.png
+Searching DNI: 47859075P... dn is: cn=Anna Gilabert Navarro,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47855991Y.png
+Searching DNI: 47855991Y... dn is: cn=Alba Roso Bort,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47821812M.png
+Searching DNI: 47821812M... dn is: cn=Jessica Rodriguez Obilio,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47857241Z.png
+Searching DNI: 47857241Z... dn is: cn=Raquel Romeu Girbes,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47825348E.png
+Searching DNI: 47825348E... dn is: cn=Anna Vicente Cid,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47829075T.png
+Searching DNI: 47829075T... dn is: cn=Gemma Gonzalez Navarro,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47482383V.png
+Searching DNI: 47482383V...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Dietètica/47482383V.png
+/home/sergi/prova/TIC2011-12/Dietètica/40924578B.png
+Searching DNI: 40924578B... dn is: cn=Mercè Andreu Ardit,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/39907326A.png
+Searching DNI: 39907326A... dn is: cn=Andrés González Guirao,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47936116E.png
+Searching DNI: 47936116E... dn is: cn=Miriam Martinez Casanova,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47860106G.png
+Searching DNI: 47860106G... dn is: cn=Patricia Najer Lara,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47828751K.png
+Searching DNI: 47828751K... dn is: cn=Robert Cabrera Giné,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47936919C.png
+Searching DNI: 47936919C... dn is: cn=Gerard Amare Guinart,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/X8103251Y.png
+Searching DNI: X8103251Y... dn is: cn=Andreea Elena Lavu,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47480127P.png
+Searching DNI: 47480127P... dn is: cn=Madeline Marle Ventura Zevallos,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47829609M.png
+Searching DNI: 47829609M... dn is: cn=Alba Franch Llobet,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47936280W.png
+Searching DNI: 47936280W... dn is: cn=Saray Ortigues Ripollés,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47828767Z.png
+Searching DNI: 47828767Z... dn is: cn=Fransina Soler Torres,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/47936592S.png
+Searching DNI: 47936592S... dn is: cn=Andrea Baiges Masià,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dietètica/Y1298937A.png
+Searching DNI: Y1298937A... dn is: cn=Sergiane Albino Camara,ou=people,ou=Curs 1,ou=Dietètica,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes electrotècnics i automatitzats/47937909K.png
+Searching DNI: 47937909K... dn is: cn=Aitor Gavalda Gabriel,ou=people,ou=Curs 1,ou=Sistemes electrotècnics i automatitzats,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes electrotècnics i automatitzats/47936711L.png
+Searching DNI: 47936711L... dn is: cn=Samuel Granados Galaso,ou=people,ou=Curs 1,ou=Sistemes electrotècnics i automatitzats,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes electrotècnics i automatitzats/47773180H.png
+Searching DNI: 47773180H... dn is: cn=Juan José De la Rosa Herrero,ou=people,ou=Curs 1,ou=Sistemes electrotècnics i automatitzats,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes electrotècnics i automatitzats/47629445X.png
+Searching DNI: 47629445X... dn is: cn=Joan Carles Horta Aixala,ou=people,ou=Curs 1,ou=Sistemes electrotècnics i automatitzats,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes electrotècnics i automatitzats/52609494F.png
+Searching DNI: 52609494F... dn is: cn=Beatriu Costes Aliau,ou=people,ou=Curs 1,ou=Sistemes electrotècnics i automatitzats,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes electrotècnics i automatitzats/47478509T.png
+Searching DNI: 47478509T... dn is: cn=Jimmy Christian Taopanta Valdez,ou=people,ou=Curs 1,ou=Sistemes electrotècnics i automatitzats,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes electrotècnics i automatitzats/47623532P.png
+Searching DNI: 47623532P... dn is: cn=Octavio  Waggeh Dukureh,ou=people,ou=Curs 1,ou=Sistemes electrotècnics i automatitzats,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes electrotècnics i automatitzats/47938170Y.png
+Searching DNI: 47938170Y... dn is: cn=Pau Llombart Perulada,ou=people,ou=Curs 1,ou=Sistemes electrotècnics i automatitzats,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes electrotècnics i automatitzats/47860090B.png
+Searching DNI: 47860090B... dn is: cn=Jordi Gas Ferre,ou=people,ou=Curs 1,ou=Sistemes electrotècnics i automatitzats,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes electrotècnics i automatitzats/47629899G.png
+Searching DNI: 47629899G... dn is: cn=Javier Espinosa Largo,ou=people,ou=Curs 1,ou=Sistemes electrotècnics i automatitzats,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes electrotècnics i automatitzats/52601100P.png
+Searching DNI: 52601100P... dn is: cn=Susana Valls Andreu,ou=people,ou=Curs 1,ou=Sistemes electrotècnics i automatitzats,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes electrotècnics i automatitzats/47855292C.png
+Searching DNI: 47855292C... dn is: cn=Aitor Marull Ferré,ou=people,ou=Curs 1,ou=Sistemes electrotècnics i automatitzats,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes electrotècnics i automatitzats/47625655S.png
+Searching DNI: 47625655S... dn is: cn=Jordi Salaet Beltran,ou=people,ou=Curs 1,ou=Sistemes electrotècnics i automatitzats,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/X9442175P.png
+Searching DNI: X9442175P... dn is: cn=Bouchra Ait Abou,ou=people,ou=Curs 1,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/19986698C.png
+Searching DNI: 19986698C... dn is: cn=Alfonso José Martínez Monzo,ou=people,ou=Curs 2,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/47860167L.png
+Searching DNI: 47860167L... dn is: cn=David Casanova Fabra,ou=people,ou=Curs 1,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/478209050K.png
+Searching DNI: 478209050K...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Administració i finances/478209050K.png
+/home/sergi/prova/TIC2011-12/Administració i finances/47827839Y.png
+Searching DNI: 47827839Y... dn is: cn=Jesús Curto Salvadó,ou=people,ou=Curs 1,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/47821565B.png
+Searching DNI: 47821565B... dn is: cn=Josep Maria Pio Fornos,ou=people,ou=Curs 2,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/47826949J.png
+Searching DNI: 47826949J... dn is: cn=Sandra Vidiella Piñol,ou=people,ou=Curs 1,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/47824034L.png
+Searching DNI: 47824034L... dn is: cn=Daniel Monteso Millan,ou=people,ou=Curs 1,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/47481888K.png
+Searching DNI: 47481888K... dn is: cn=Pamela Andrea Diaz Carrasco,ou=people,ou=Curs 2,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/47828826G.png
+Searching DNI: 47828826G... dn is: cn=Rosa Baubí Calderó,ou=people,ou=Curs 1,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/47829619S.png
+Searching DNI: 47829619S... dn is: cn=Oriol Viñas Eixarch,ou=people,ou=Curs 1,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/47828363R.png
+Searching DNI: 47828363R... dn is: cn=Sonia Fornós Villarojo,ou=people,ou=Curs 1,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/47627555Y.png
+Searching DNI: 47627555Y... dn is: cn=Alba Closa Ponce,ou=people,ou=Curs 1,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/40922994Z.png
+Searching DNI: 40922994Z... dn is: cn=Immaculada Salamó Castells,ou=people,ou=Curs 1,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/40925953Y.png
+Searching DNI: 40925953Y... dn is: cn=Maria Cristina Ferreres Meseguer,ou=people,ou=Curs 1,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/47824811Z.png
+Searching DNI: 47824811Z... dn is: cn=Juan Salas Rodríguez,ou=people,ou=Curs 1,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/47936078F.png
+Searching DNI: 47936078F...MULTIPLE RESULTS FOUND! /home/sergi/prova/TIC2011-12/Administració i finances/47936078F.png
+/home/sergi/prova/TIC2011-12/Administració i finances/47858058A.png
+Searching DNI: 47858058A... dn is: cn=Patricia Curto Guillen,ou=people,ou=Curs 1,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/X9372329J.png
+Searching DNI: X9372329J...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Administració i finances/X9372329J.png
+/home/sergi/prova/TIC2011-12/Administració i finances/47822683W.png
+Searching DNI: 47822683W... dn is: cn=Josep  Roda Lopez,ou=people,ou=Curs 1,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Administració i finances/47828055S.png
+Searching DNI: 47828055S... dn is: cn=Sandra Solé Font,ou=people,ou=Curs 1,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Prevenció de riscos professionals/47937153R.png
+Searching DNI: 47937153R... dn is: cn=Cristian Brull Ferriols,ou=people,ou=Curs 1,ou=Prevenció de riscos professionals,ou=Manteniment i serveis a la producció,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Prevenció de riscos professionals/40933375.png
+Searching DNI: 40933375...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Prevenció de riscos professionals/40933375.png
+/home/sergi/prova/TIC2011-12/Prevenció de riscos professionals/47822791H.png
+Searching DNI: 47822791H... dn is: cn=Marc Bayo Monllaó,ou=people,ou=Curs 1,ou=Prevenció de riscos professionals,ou=Manteniment i serveis a la producció,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Prevenció de riscos professionals/47857567H.png
+Searching DNI: 47857567H... dn is: cn=Josep Palmer Margalef,ou=people,ou=Curs 1,ou=Prevenció de riscos professionals,ou=Manteniment i serveis a la producció,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/X7228293Z.png
+Searching DNI: X7228293Z... dn is: cn=Victoria Díaz Durán,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/47936521J.png
+Searching DNI: 47936521J... dn is: cn=Gerard Capera Ema,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/X5991708R.png
+Searching DNI: X5991708R... dn is: cn=Maximiliano Abel Luis,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/47823571Q.png
+Searching DNI: 47823571Q... dn is: cn=Vanesa Palau Quiros,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/47936683Z.png
+Searching DNI: 47936683Z... dn is: cn=Maria Navarro Miró,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/52606884L.png
+Searching DNI: 52606884L... dn is: cn=Jordi Sanahuja Luna,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/47625867C.png
+Searching DNI: 47625867C... dn is: cn=Sonia San Millan Sabate,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/47825632F.png
+Searching DNI: 47825632F... dn is: cn=Gloria Canalda Sanchez,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/40926539V.png
+Searching DNI: 40926539V... dn is: cn=Emilia Recio Cañete,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/47827820X.png
+Searching DNI: 47827820X... dn is: cn=Roser Casanova Callau,ou=people,ou=Curs 2,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/47824998V.png
+Searching DNI: 47824998V... dn is: cn=Neus Martínez Abas,ou=people,ou=Curs 2,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/47477039W.png
+Searching DNI: 47477039W... dn is: cn=Lizeth Johana Batilda Candelo,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/47475945N.png
+Searching DNI: 47475945N... dn is: cn=Aynhoa Gonzalez Cardona,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/47824308V.png
+Searching DNI: 47824308V... dn is: cn=Noemi Bayo Oliva,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/52609322L.png
+Searching DNI: 52609322L... dn is: cn=Clara Segarra Vallès,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/47821776S.png
+Searching DNI: 47821776S... dn is: cn=Maria Soraya Mulet Aguiló,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/47861914H.png
+Searching DNI: 47861914H... dn is: cn=Noelia Grau Celma,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/X9474277W.png
+Searching DNI: X9474277W... dn is: cn=Raimonda Stukaite,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/X8306695S.png
+Searching DNI: X8306695S... dn is: cn=Adriana Beatriz Cubas Dávila,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/X9747121C.png
+Searching DNI: X9747121C... dn is: cn=Damary Díaz Sachenz,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/47857430L.png
+Searching DNI: 47857430L... dn is: cn=Ingrid Fabra Grau,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/X6716960V.png
+Searching DNI: X6716960V... dn is: cn=Nicoleta Balauta,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/40931258K.png
+Searching DNI: 40931258K... dn is: cn=Lucia Tejeda Gil,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/77120229X.png
+Searching DNI: 77120229X... dn is: cn=Alba De Vargas Aragons,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/47829669L.png
+Searching DNI: 47829669L... dn is: cn=Cristina Herrero Roselló,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/47772164Z.png
+Searching DNI: 47772164Z... dn is: cn=Ana Molina Marín,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Farmàcia i parafarmàcia/47477326J.png
+Searching DNI: 47477326J... dn is: cn=Alba Castelló Querol,ou=people,ou=Curs 1,ou=Farmàcia i parafarmàcia,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/26244594V.png
+Searching DNI: 26244594V...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Atenció sociosanitaria/26244594V.png
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/X7271659W.png
+Searching DNI: X7271659W... dn is: cn=outman Senhafi,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/40916003S.png
+Searching DNI: 40916003S... dn is: cn=Ana Maria Bedmar Solà,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47827050E.png
+Searching DNI: 47827050E... dn is: cn=Joaquim Cid Colomé,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47827165E.png
+Searching DNI: 47827165E... dn is: cn=Ana Pineda Viscarro,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47858902Z.png
+Searching DNI: 47858902Z...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47858902Z.png
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47856328K.png
+Searching DNI: 47856328K... dn is: cn=Milio Folquè Espinós,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/73106428P.png
+Searching DNI: 73106428P... dn is: cn=Miguel Sostres Barceló,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/X7010386D.png
+Searching DNI: X7010386D... dn is: cn=Soufiane Ouachene,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47858742C.png
+Searching DNI: 47858742C... dn is: cn=Julia Talarn Bel,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47824310L.png
+Searching DNI: 47824310L... dn is: cn=Cristina Garcia Royo,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47626965Z.png
+Searching DNI: 47626965Z... dn is: cn=Xavier Fernández,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47476351G.png
+Searching DNI: 47476351G... dn is: cn=Gerard Roselló Davós,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47937859V.png
+Searching DNI: 47937859V... dn is: cn=Saray Girona Justiniano,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47858709P.png
+Searching DNI: 47858709P...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47858709P.png
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/X7209923K.png
+Searching DNI: X7209923K... dn is: cn=Fatima Mouhaddach,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47828724V.png
+Searching DNI: 47828724V... dn is: cn=Nerea Zaragoza Buch,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/43829352R.png
+Searching DNI: 43829352R... dn is: cn=Cinta Vilaubi Grifoll,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47862448T.png
+Searching DNI: 47862448T... dn is: cn=Nerea Fatsini López,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47829858R.png
+Searching DNI: 47829858R... dn is: cn=Mariona Favà Cervera,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/X5823353Y.png
+Searching DNI: X5823353Y... dn is: cn=Mina Bouchyoud,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47863503C.png
+Searching DNI: 47863503C... dn is: cn=Maria Obiol Roig,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47860204X.png
+Searching DNI: 47860204X... dn is: cn=Omar Checa Borja,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/X6713728M.png
+Searching DNI: X6713728M... dn is: cn=Meriem Achnite,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47477057C.png
+Searching DNI: 47477057C... dn is: cn=Noemi Favà Marín,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47475922N.png
+Searching DNI: 47475922N... dn is: cn=Angel  Mosquera Zumaquero,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/X8256757X.png
+Searching DNI: X8256757X... dn is: cn=Assya Benyazid,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47860368J.png
+Searching DNI: 47860368J... dn is: cn=Samantha Tessier Blasco,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47937643P.png
+Searching DNI: 47937643P... dn is: cn=Karina Muria Cuadros,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47476952F.png
+Searching DNI: 47476952F... dn is: cn=Daniel Pinyol Mayor,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47824097J.png
+Searching DNI: 47824097J... dn is: cn=Joana Belilla Tiñena,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/474760281A.png
+Searching DNI: 474760281A...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Atenció sociosanitaria/474760281A.png
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47478415K.png
+Searching DNI: 47478415K... dn is: cn=Meritxell Torà Cid,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/X8154649E.png
+Searching DNI: X8154649E... dn is: cn=Fouzia Ben Driss,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47480968K.png
+Searching DNI: 47480968K... dn is: cn=Carme Subirats Cabanes,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Atenció sociosanitaria/47476110Q.png
+Searching DNI: 47476110Q... dn is: cn=Mahmud Hama Didi,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47829229Q.png
+Searching DNI: 47829229Q... dn is: cn=Laia López Fanto,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47827187K.png
+Searching DNI: 47827187K... dn is: cn=Melani Miró Ferrer,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47936818B.png
+Searching DNI: 47936818B... dn is: cn=Sonia Segura Figuerola,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47829235E.png
+Searching DNI: 47829235E... dn is: cn=Diana Martínez Simón,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/Y1085685F.png
+Searching DNI: Y1085685F... dn is: cn=Diana Elena Tomele,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47477211J.png
+Searching DNI: 47477211J... dn is: cn=Victoria Belilla Serret,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47860408F.png
+Searching DNI: 47860408F... dn is: cn=Cinta Torres Sànchez,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/39925794W.png
+Searching DNI: 39925794W... dn is: cn=Corina Cedó Pagès,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47822398Q.png
+Searching DNI: 47822398Q... dn is: cn=Meritxell López Altés,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/X2533599B.png
+Searching DNI: X2533599B... dn is: cn=Jamila Hasnaoui,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47620412Q.png
+Searching DNI: 47620412Q... dn is: cn=Josephine Salvado Sol,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47822480Y.png
+Searching DNI: 47822480Y... dn is: cn=Isabel Villalbos Mars,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47858622S.png
+Searching DNI: 47858622S... dn is: cn=Rosa Falco Comes,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/39471096Z.png
+Searching DNI: 39471096Z... dn is: cn=Cristina Benaiges Chortó,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/78582043J.png
+Searching DNI: 78582043J... dn is: cn=Núria Garcia Fernández,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47821352M.png
+Searching DNI: 47821352M... dn is: cn=Gemma Benito Castellet,ou=people,ou=Curs 2,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47828401Q.png
+Searching DNI: 47828401Q... dn is: cn=Raul Mencia Celestino,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/39921229Z.png
+Searching DNI: 39921229Z... dn is: cn=Susana Arcas Pinós,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47829558T.png
+Searching DNI: 47829558T... dn is: cn=Elena Peransi Sanjuán,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/41078582F.png
+Searching DNI: 41078582F... dn is: cn=Anna Santos Orrit,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47828694X.png
+Searching DNI: 47828694X... dn is: cn=Gemma Immaculada Querol Vilaubi,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47938096R.png
+Searching DNI: 47938096R... dn is: cn=María Bertomeu Rojas,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47475921B.png
+Searching DNI: 47475921B... dn is: cn=Marta Espelta Villó,ou=people,ou=Curs 1,ou=Educació infantil,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Educació Infantil/47936392S.png
+Searching DNI: 47936392S...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Educació Infantil/47936392S.png
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47478254A.png
+Searching DNI: 47478254A...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47478254A.png
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/X8486336A.png
+Searching DNI: X8486336A... dn is: cn=Constantin Màriutei Marian,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47480373R.png
+Searching DNI: 47480373R... dn is: cn=Guillermo Gonzalez Zumaquero,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47483668.png
+Searching DNI: 47483668...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47483668.png
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47476805K.png
+Searching DNI: 47476805K... dn is: cn=Alexander Calle León,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47476871H.png
+Searching DNI: 47476871H... dn is: cn=Joaquim Santos Rodríguez,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47829283R.png
+Searching DNI: 47829283R... dn is: cn=Robert Rodríguez Barberà,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47824394D.png
+Searching DNI: 47824394D... dn is: cn=Jordi Fabregat Rascon,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/X7948955V.png
+Searching DNI: X7948955V... dn is: cn=Cristian Fernando Jirón Jaramillo,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47879620Z.png
+Searching DNI: 47879620Z... dn is: cn=Jose Augusto Aguilar Budinich,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/X7365750S.png
+Searching DNI: X7365750S... dn is: cn=Mohamed Ben Haddou,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47860814E.png
+Searching DNI: 47860814E... dn is: cn=Marc Codorniu Vidal,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/X8782358S.png
+Searching DNI: X8782358S... dn is: cn=Aissam Achermouk,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/46992493C.png
+Searching DNI: 46992493C... dn is: cn=Jose Carlos Molina Fernandez,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/X8152182Q.png
+Searching DNI: X8152182Q... dn is: cn=Fouad Ben El Kauriane,ou=people,ou=Curs 1,ou=Atenció sociosanitària,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47824401H.png
+Searching DNI: 47824401H... dn is: cn=Josep Cid Rodríguez,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/X7891293Q.png
+Searching DNI: X7891293Q... dn is: cn=Abdellah Titaou,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/71024655B.png
+Searching DNI: 71024655B... dn is: cn=Raul Rivero de Castro,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47477002B.png
+Searching DNI: 47477002B... dn is: cn=Daniel Forés Pinedo,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47829608G.png
+Searching DNI: 47829608G... dn is: cn=Josep Barceló Pons,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47824824J.png
+Searching DNI: 47824824J... dn is: cn=Dani Solà Valleju,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47938467G.png
+Searching DNI: 47938467G... dn is: cn=Aitor Balastegui Pardo,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47861095G.png
+Searching DNI: 47861095G... dn is: cn=Cristian Mancheño Obiols,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47828494V.png
+Searching DNI: 47828494V... dn is: cn=Jordi Chavarria Blanch,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47826169S.png
+Searching DNI: 47826169S... dn is: cn=Marc Bort Sabaté,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/AT454549.png
+Searching DNI: AT454549... dn is: cn=Vitaliy Domin,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47861916C.png
+Searching DNI: 47861916C... dn is: cn=Cristian Cid Arrastraria,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/38581771.png
+Searching DNI: 38581771... dn is: cn=Angel Vargas Rojas,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal·lacions elèctriques i automàtiques/47475810S.png
+Searching DNI: 47475810S... dn is: cn=Samuel Pérez Salazdr,ou=people,ou=Curs 1,ou=Instal·lacions elèctriques i automàtiques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47475755Y.png
+Searching DNI: 47475755Y... dn is: cn=Hakima Bouyajdad Elouai,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47861180C.png
+Searching DNI: 47861180C... dn is: cn=Ivan Ferreres Ortiz,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47828337K.png
+Searching DNI: 47828337K... dn is: cn=Francesc Pallarés Herrera,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/X7551778G.png
+Searching DNI: X7551778G...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/X7551778G.png
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47636841T.png
+Searching DNI: 47636841T... dn is: cn=Jennifer Badia Valera,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/40918097Q.png
+Searching DNI: 40918097Q... dn is: cn=Maria Aubonia Grau Poy,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47936801V.png
+Searching DNI: 47936801V... dn is: cn=Cinta Risa Montserrat,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/202449663A.png
+Searching DNI: 202449663A... dn is: cn=Iñaki Poza Plomer,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47938589B.png
+Searching DNI: 47938589B... dn is: cn=Jonathan Centelles Curto,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/X8883137P.png
+Searching DNI: X8883137P... dn is: cn=Andreea Crivoi,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/77627644E.png
+Searching DNI: 77627644E... dn is: cn=Julia Wavorro Perez,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/X8574285T.png
+Searching DNI: X8574285T... dn is: cn=Ana Maria Ivan,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/77834668T.png
+Searching DNI: 77834668T... dn is: cn=Maria Pilar Salayet Adell,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/52604053V.png
+Searching DNI: 52604053V... dn is: cn=Eva Maria Pérez Gregolosa,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47629374P.png
+Searching DNI: 47629374P... dn is: cn=Ot Bordera Marti,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/X8495104P.png
+Searching DNI: X8495104P... dn is: cn=Marian Claudiu Cristea,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47861704S.png
+Searching DNI: 47861704S... dn is: cn=Neus Gisbert Querol,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/73091834L.png
+Searching DNI: 73091834L... dn is: cn=Ana Aguas Crivillé,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/78580773P.png
+Searching DNI: 78580773P... dn is: cn=Marta Castell Borras,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/4782112H.png
+Searching DNI: 4782112H...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/4782112H.png
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/40918551X.png
+Searching DNI: 40918551X... dn is: cn=Maria Immaculada De la Cruz Longán,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47862481X.png
+Searching DNI: 47862481X... dn is: cn=Anna Querol Muñoz,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47826985A.png
+Searching DNI: 47826985A... dn is: cn=Monica Garrido Colomé,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/X2219879B.png
+Searching DNI: X2219879B... dn is: cn=Maria José Medeiros Do Nascimento,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47822958R.png
+Searching DNI: 47822958R... dn is: cn=Zaida Pujol Pasamon,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/44196264Q.png
+Searching DNI: 44196264Q... dn is: cn=Fernando Rodriguez Lopez,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/78581249R.png
+Searching DNI: 78581249R... dn is: cn=Rossana Cid Sancho,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/Y0148853B.png
+Searching DNI: Y0148853B... dn is: cn=Melina Valeria Alvarez,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/X4841070F.png
+Searching DNI: X4841070F... dn is: cn=Jenniffer Macias Vives,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/52602659A.png
+Searching DNI: 52602659A... dn is: cn=Agustin Juan Margalef Roca,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47829489T.png
+Searching DNI: 47829489T... dn is: cn=Nieves Dominguez Hurtado,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/40929734S.png
+Searching DNI: 40929734S... dn is: cn=Jaume Prats Casanova,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47827940S.png
+Searching DNI: 47827940S... dn is: cn=Lara Arrufat Ferré,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/26486914E.png
+Searching DNI: 26486914E...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/26486914E.png
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47855707K.png
+Searching DNI: 47855707K... dn is: cn=Mireia Balada Sanchez,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/73106016X.png
+Searching DNI: 73106016X... dn is: cn=Marina Mora Granja,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47937346X.png
+Searching DNI: 47937346X... dn is: cn=Oscar Insa Bardi,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47766202D.png
+Searching DNI: 47766202D... dn is: cn=Eva Nolla Forès,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/X9030444T.png
+Searching DNI: X9030444T... dn is: cn=Naima Saidi,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/X4727473F.png
+Searching DNI: X4727473F... dn is: cn=Ghizlanee El Amfraouy,ou=people,ou=Curs 1,ou=Comerç,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47475978E.png
+Searching DNI: 47475978E... dn is: cn=Xavi Lucero Gisbert,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47476297.png
+Searching DNI: 47476297... dn is: cn=Eva Gavalda Targa,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47860851J.png
+Searching DNI: 47860851J... dn is: cn=Josep Ramon Sancho Vila,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/40926905S.png
+Searching DNI: 40926905S... dn is: cn=Neus Cardona Casadó,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47476137C.png
+Searching DNI: 47476137C... dn is: cn=Silvia Triguero Serra,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47476416T.png
+Searching DNI: 47476416T... dn is: cn=Alejandro Garrido Guerra,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/X7892702E.png
+Searching DNI: X7892702E... dn is: cn=Matsa Essaghiri,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47620888D.png
+Searching DNI: 47620888D... dn is: cn=Ana Herrera Arias,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/Y0506874Z.png
+Searching DNI: Y0506874Z... dn is: cn=Lisyair Ratchel González Mieres,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/20908096S.png
+Searching DNI: 20908096S... dn is: cn=Barbara Miró Querol,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47827032G.png
+Searching DNI: 47827032G... dn is: cn=Laia Queralt Rodríguez,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/0921698.png
+Searching DNI: 0921698... dn is: cn=Rgeibi Mohamed Salem Abdallah,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/X8592586Q.png
+Searching DNI: X8592586Q... dn is: cn=Lilyana Casconea,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47478805C.png
+Searching DNI: 47478805C... dn is: cn=Evelyn Yesenia Valencia Cevallos,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47483151L.png
+Searching DNI: 47483151L... dn is: cn=Jessica Barroga Burac,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47481089G.png
+Searching DNI: 47481089G... dn is: cn=Ana Duvel Naranjo Osovia,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47855670F.png
+Searching DNI: 47855670F... dn is: cn=Albert Sancho Fibla,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/17211642Y.png
+Searching DNI: 17211642Y... dn is: cn=Mercedes Sanchis Gallizo,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/40921778V.png
+Searching DNI: 40921778V... dn is: cn=Encarna Marmaneu Gimeno,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47827760L.png
+Searching DNI: 47827760L... dn is: cn=Bibiana Urselles Mis,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47475614A.png
+Searching DNI: 47475614A... dn is: cn=Anna Vizcarro Poull,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47585249X.png
+Searching DNI: 47585249X...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47585249X.png
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47483264V.png
+Searching DNI: 47483264V... dn is: cn=Roberto Efrain Jepez Oña,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/40926096B.png
+Searching DNI: 40926096B... dn is: cn=Tere Borja Herrero,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47859966W.png
+Searching DNI: 47859966W... dn is: cn=Jùlia Serret Subirats,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/X5235841Y.png
+Searching DNI: X5235841Y...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/X5235841Y.png
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/78582739L.png
+Searching DNI: 78582739L... dn is: cn=Josep Maria Senar Arasa,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47480748P.png
+Searching DNI: 47480748P... dn is: cn=Noemi Toapanta Arcos,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/X6418609E.png
+Searching DNI: X6418609E... dn is: cn=Marjorie teresa Flores Criollo,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/RX7365958R.png
+Searching DNI: RX7365958R... dn is: cn=Laila El Kaoutari,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47827328R.png
+Searching DNI: 47827328R... dn is: cn=Montse Cristina Poy Gomez,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/40923203Q.png
+Searching DNI: 40923203Q... dn is: cn=Angels Curto Pastor,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47476760E.png
+Searching DNI: 47476760E... dn is: cn=Flavia Albiol Benedicto,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47628945Q.png
+Searching DNI: 47628945Q... dn is: cn=Ivan Castrejon Castillo,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/73398812Q.png
+Searching DNI: 73398812Q... dn is: cn=Maite Niñerola Vicente,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47858677R.png
+Searching DNI: 47858677R... dn is: cn=Edu Beltri Soriu,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47482434S.png
+Searching DNI: 47482434S... dn is: cn=Daniela Agudelo Sanchez,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/4782989R.png
+Searching DNI: 4782989R...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/4782989R.png
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47626226B.png
+Searching DNI: 47626226B... dn is: cn=Josep Gauxachs Cuervas,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/47620297Q.png
+Searching DNI: 47620297Q... dn is: cn=Joan Pere Fuma Geira,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Cures auxiliars de infermeria/40928773C.png
+Searching DNI: 40928773C... dn is: cn=Montserrat Villaécija López,ou=people,ou=Curs 1,ou=Cures auxiliars d’infermeria,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal.lacions electrotècniques/X6031752W.png
+Searching DNI: X6031752W...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Instal.lacions electrotècniques/X6031752W.png
+/home/sergi/prova/TIC2011-12/Instal.lacions electrotècniques/39909237M.png
+Searching DNI: 39909237M... dn is: cn=Guifré Guiu Amor,ou=people,ou=Curs 2,ou=Instal·lacions electrotècniques,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Instal.lacions electrotècniques/47820400S.png
+Searching DNI: 47820400S...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Instal.lacions electrotècniques/47820400S.png
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47825182V.png
+Searching DNI: 47825182V... dn is: cn=Oscar Muria Fontanet,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47858429Y.png
+Searching DNI: 47858429Y... dn is: cn=Bryan Prats Climent,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47862036W.png
+Searching DNI: 47862036W... dn is: cn=Marc Calafell Gisbert,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47829646L.png
+Searching DNI: 47829646L... dn is: cn=Alex Millan Chulbi,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47829508L.png
+Searching DNI: 47829508L... dn is: cn=Josep Castells Encontrado,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47476805W.png
+Searching DNI: 47476805W...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47476805W.png
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47937693N.png
+Searching DNI: 47937693N... dn is: cn=Ricard Aixala celma,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47478707Z.png
+Searching DNI: 47478707Z...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47478707Z.png
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47820746C.png
+Searching DNI: 47820746C... dn is: cn=Santiago Cortijo Zaragoza,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47475607L.png
+Searching DNI: 47475607L... dn is: cn=Sergi Solà Vallejo,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47626230S.png
+Searching DNI: 47626230S... dn is: cn=Ana Pardo Vinet,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/X5369906G.png
+Searching DNI: X5369906G... dn is: cn=Guido Alfredo Aviles Sanchez,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47476559M.png
+Searching DNI: 47476559M... dn is: cn=Roger Melich Curto,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47476080D.png
+Searching DNI: 47476080D... dn is: cn=Gianfranco Bazzani Valldepérez,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47862123C.png
+Searching DNI: 47862123C... dn is: cn=Arnau Pallares Marsal,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47937322D.png
+Searching DNI: 47937322D... dn is: cn=Enric Anguera Falerias,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47828851Y.png
+Searching DNI: 47828851Y... dn is: cn=Marc Albert Mayor Rodriguez,ou=people,ou=Curs 2,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/Y1001175E.png
+Searching DNI: Y1001175E... dn is: cn=Rosswel Axel Ormeño Abril,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/X5740003P.png
+Searching DNI: X5740003P... dn is: cn=Abdelaziz Ait Hassoo,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47829292X.png
+Searching DNI: 47829292X... dn is: cn=Adrian Bel Rima,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47826720Z.png
+Searching DNI: 47826720Z... dn is: cn=Francesc Llao Llao,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47826928S.png
+Searching DNI: 47826928S... dn is: cn=Pedro Insa Rovira,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/X5513621S.png
+Searching DNI: X5513621S... dn is: cn=Abdelali Bammou,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47475307H.png
+Searching DNI: 47475307H...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47475307H.png
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47862029H.png
+Searching DNI: 47862029H... dn is: cn=Ricard Curto Cots,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/X2955023Y.png
+Searching DNI: X2955023Y... dn is: cn=Mustafa Hassan Karrouy,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47476872L.png
+Searching DNI: 47476872L... dn is: cn=Eduard Santos Rodríguez,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47476729Z.png
+Searching DNI: 47476729Z... dn is: cn=Sergi Baucells Rodríguez,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47861231W.png
+Searching DNI: 47861231W... dn is: cn=Eric Quevedo Carles,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47826204G.png
+Searching DNI: 47826204G... dn is: cn=Jordi Hernandez Benet,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47475394J.png
+Searching DNI: 47475394J... dn is: cn=Sergi Moreno Espelta,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47479411M.png
+Searching DNI: 47479411M... dn is: cn=Eric Aixendri Royo,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes microinformàtics i xarxes/47476832W.png
+Searching DNI: 47476832W... dn is: cn=Pablo Pozo Tena,ou=people,ou=Curs 1,ou=Sistemes microinformàtics  i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47821876T.png
+Searching DNI: 47821876T... dn is: cn=Patricia Ferré Martínez,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/40934633S.png
+Searching DNI: 40934633S... dn is: cn=Maria Teresa Puchol Tasadó,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47821593Q.png
+Searching DNI: 47821593Q... dn is: cn=Maria Jesús  Zamora Ortiz,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47824433Y.png
+Searching DNI: 47824433Y...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Integració social/47824433Y.png
+/home/sergi/prova/TIC2011-12/Integració social/47938537M.png
+Searching DNI: 47938537M... dn is: cn=Marina Ferré Arques,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47629819Q.png
+Searching DNI: 47629819Q... dn is: cn=Pau Cid Bullón,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47857477C.png
+Searching DNI: 47857477C... dn is: cn=Meritxell Carbó Rullo,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47858386D.png
+Searching DNI: 47858386D... dn is: cn=Miriam Gomez Farnos,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/52604118J.png
+Searching DNI: 52604118J... dn is: cn=Joana Piñol Costes,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/X8465945J.png
+Searching DNI: X8465945J... dn is: cn=Mayline Larsen Sion,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47860112X.png
+Searching DNI: 47860112X... dn is: cn=Idoia Llambrich Fumadó,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47827813A.png
+Searching DNI: 47827813A... dn is: cn=Estela Curto Girbes,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47822027J.png
+Searching DNI: 47822027J... dn is: cn=Davinia Reverté Mascarell,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47855618R.png
+Searching DNI: 47855618R... dn is: cn=Blanca Querol Ferreres,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47827412Q.png
+Searching DNI: 47827412Q... dn is: cn=Helena Ferré Forcadell,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47858785V.png
+Searching DNI: 47858785V... dn is: cn=Meritxell Gonzalez Àvila,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47621048P.png
+Searching DNI: 47621048P... dn is: cn=Miriam Millan Miranda,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/52609639Z.png
+Searching DNI: 52609639Z... dn is: cn=Jacob Villamon Vedo,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/40933416V.png
+Searching DNI: 40933416V... dn is: cn=Neus Tiñena Calducm,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/409931162V.png
+Searching DNI: 409931162V...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Integració social/409931162V.png
+/home/sergi/prova/TIC2011-12/Integració social/47857212D.png
+Searching DNI: 47857212D...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Integració social/47857212D.png
+/home/sergi/prova/TIC2011-12/Integració social/47936706Z.png
+Searching DNI: 47936706Z... dn is: cn=Ricard Martí Bonfill,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47861392W.png
+Searching DNI: 47861392W... dn is: cn=Meritxell Hidalgo Pasto,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47855492J.png
+Searching DNI: 47855492J... dn is: cn=Pamela Valldeperez Saldiva,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47859141M.png
+Searching DNI: 47859141M... dn is: cn=marina Dominguez Conesa,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47629470N.png
+Searching DNI: 47629470N... dn is: cn=Montse Ferré Cañada,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/40935385P.png
+Searching DNI: 40935385P... dn is: cn=Xavi Gil Fonseca,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Integració social/47482114V.png
+Searching DNI: 47482114V... dn is: cn=Denise Carmen Mendoza Torres,ou=people,ou=Curs 1,ou=Integració Social,ou=Serveis socioculturals,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/X9965706J.png
+Searching DNI: X9965706J... dn is: cn=Hasna Aataoma,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47478506C.png
+Searching DNI: 47478506C... dn is: cn=Pau Lleixà Curto,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47475657T.png
+Searching DNI: 47475657T... dn is: cn=Andrea Cazaux Castells,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/X8602704Z.png
+Searching DNI: X8602704Z... dn is: cn=Florin Ciuperca,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47621103V.png
+Searching DNI: 47621103V... dn is: cn=Josep Tomas Mauri,ou=people,ou=Curs 1,ou=Administració i finances,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/40935842M.png
+Searching DNI: 40935842M... dn is: cn=Maria Angels Burgos Castillo,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/X6418665D.png
+Searching DNI: X6418665D... dn is: cn=Maria Fernanda Flores Criollo,ou=people,ou=Curs 2,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47476978X.png
+Searching DNI: 47476978X... dn is: cn=Roser Piñol Roses,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/23819126G.png
+Searching DNI: 23819126G... dn is: cn=Roy Xavier Espinoza Ganchoso,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47479246R.png
+Searching DNI: 47479246R... dn is: cn=Sana Ouaissa Ouaissa,ou=people,ou=Curs 2,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47824786N.png
+Searching DNI: 47824786N... dn is: cn=Miriam Garrido Andreu,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47621621Y.png
+Searching DNI: 47621621Y... dn is: cn=Raquel Garcia Valles,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/39879076C.png
+Searching DNI: 39879076C... dn is: cn=Olga Llaveria Pedrola,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47629011L.png
+Searching DNI: 47629011L...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Gestió administrativa/47629011L.png
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47856526N.png
+Searching DNI: 47856526N... dn is: cn=Jennifer Cubells Pellisa,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47827840F.png
+Searching DNI: 47827840F... dn is: cn=Cinta Curto Salvadó,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/X8611708W.png
+Searching DNI: X8611708W... dn is: cn=Samira Zaidouhi,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47827847Z.png
+Searching DNI: 47827847Z... dn is: cn=Vanessa Fabregat Boza,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47477491V.png
+Searching DNI: 47477491V... dn is: cn=Carolina Torres Rogues,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47824711Y.png
+Searching DNI: 47824711Y... dn is: cn=Roger Codorniu Pastor,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47479458Y.png
+Searching DNI: 47479458Y... dn is: cn=Christian Pajares Abanto,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/X8224738F.png
+Searching DNI: X8224738F... dn is: cn=Tehreem Javed,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47861414R.png
+Searching DNI: 47861414R... dn is: cn=Kessia Andreu Lopez,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47475625Z.png
+Searching DNI: 47475625Z... dn is: cn=Laia Altés Tarés,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47476215Y.png
+Searching DNI: 47476215Y... dn is: cn=Lara Fernández Simón,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47936290N.png
+Searching DNI: 47936290N... dn is: cn=Xavier Cid Garrido,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/40932975J.png
+Searching DNI: 40932975J... dn is: cn=Lucia Panisello Fabregat,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/X8147319Y.png
+Searching DNI: X8147319Y... dn is: cn=Karen Paola Vilcachagua Espinoza,ou=people,ou=Curs 1,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió administrativa/47937278B.png
+Searching DNI: 47937278B... dn is: cn=Yuma Waggeh Dukoreh,ou=people,ou=Curs 2,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes de telecomunicació i informàtics/47620191W.png
+Searching DNI: 47620191W... dn is: cn=José Tomàs Fluixà Martínez,ou=people,ou=Curs 1,ou=Sistemes de telecomunicació i informàtics,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes de telecomunicació i informàtics/47627009N.png
+Searching DNI: 47627009N... dn is: cn=Aida Pérez Lara,ou=people,ou=Curs 1,ou=Sistemes de telecomunicació i informàtics,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes de telecomunicació i informàtics/52607663Q.png
+Searching DNI: 52607663Q... dn is: cn=Maria José Tallada Mariné,ou=people,ou=Curs 1,ou=Sistemes de telecomunicació i informàtics,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes de telecomunicació i informàtics/47936047E.png
+Searching DNI: 47936047E... dn is: cn=Amado Domenech Antequera,ou=people,ou=Curs 1,ou=Sistemes de telecomunicació i informàtics,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes de telecomunicació i informàtics/73400999H.png
+Searching DNI: 73400999H... dn is: cn=Manuel Dolz Pérez,ou=people,ou=Curs 1,ou=Sistemes de telecomunicació i informàtics,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes de telecomunicació i informàtics/77788285P.png
+Searching DNI: 77788285P... dn is: cn=Cristian Caballé Garcia,ou=people,ou=Curs 2,ou=Sistemes de telecomunicació i informàtics,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes de telecomunicació i informàtics/47937337R.png
+Searching DNI: 47937337R... dn is: cn=Josep Antoni Fabregat Batalla,ou=people,ou=Curs 1,ou=Sistemes de telecomunicació i informàtics,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes de telecomunicació i informàtics/47825585Y.png
+Searching DNI: 47825585Y... dn is: cn=Juan José Salas Montero,ou=people,ou=Curs 1,ou=Sistemes de telecomunicació i informàtics,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes de telecomunicació i informàtics/47936646T.png
+Searching DNI: 47936646T... dn is: cn=Carolina Torres Bertomeu,ou=people,ou=Curs 1,ou=Sistemes de telecomunicació i informàtics,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes de telecomunicació i informàtics/73398470L.png
+Searching DNI: 73398470L... dn is: cn=Marc Royo Segura,ou=people,ou=Curs 1,ou=Sistemes de telecomunicació i informàtics,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes de telecomunicació i informàtics/X5646601D.png
+Searching DNI: X5646601D... dn is: cn=Azeddine Mezyain,ou=people,ou=Curs 1,ou=Sistemes de telecomunicació i informàtics,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes de telecomunicació i informàtics/X4327352V.png
+Searching DNI: X4327352V... dn is: cn=Eugeniu Buzoverec,ou=people,ou=Curs 1,ou=Sistemes de telecomunicació i informàtics,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Sistemes de telecomunicació i informàtics/46830899R.png
+Searching DNI: 46830899R... dn is: cn=Ramón Damian Cuenca Fernández,ou=people,ou=Curs 1,ou=Sistemes de telecomunicació i informàtics,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dese.I apli.De projec.Construcció/20468769B.png
+Searching DNI: 20468769B... dn is: cn=Carlos Riera Martin,ou=people,ou=Curs 2,ou=Desenvolupament i aplicació de projectes de construcció,ou=Edificació i obra civil,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Dese.I apli.De projec.Construcció/4782845K.png
+Searching DNI: 4782845K...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Dese.I apli.De projec.Construcció/4782845K.png
+/home/sergi/prova/TIC2011-12/Secretariat/Y1153665E.png
+Searching DNI: Y1153665E... dn is: cn=Odethe Estefania Fuertes Gutiérrez,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/47855858B.png
+Searching DNI: 47855858B... dn is: cn=Laura Domenech Vallespí,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/47824403C.png
+Searching DNI: 47824403C... dn is: cn=Xavier Grau Estrada,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/47829730B.png
+Searching DNI: 47829730B... dn is: cn=Cinta Angels Serrano Fava,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/47627263J.png
+Searching DNI: 47627263J... dn is: cn=David Ferré Antonio,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/40931600H.png
+Searching DNI: 40931600H... dn is: cn=Imma Vallés Lluís,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/40918879Q.png
+Searching DNI: 40918879Q... dn is: cn=Inmaculada Regolf Simó,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/47825371E.png
+Searching DNI: 47825371E... dn is: cn=Sergi Royo Font,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/47936482H.png
+Searching DNI: 47936482H...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Secretariat/47936482H.png
+/home/sergi/prova/TIC2011-12/Secretariat/47936549H.png
+Searching DNI: 47936549H... dn is: cn=Annabel Franch Bertomeu,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/X3493762Q.png
+Searching DNI: X3493762Q... dn is: cn=Vaiga Demidova,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/52608151S.png
+Searching DNI: 52608151S...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Secretariat/52608151S.png
+/home/sergi/prova/TIC2011-12/Secretariat/47938356P.png
+Searching DNI: 47938356P... dn is: cn=Mónica Cervera Espuny,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/47826468S.png
+Searching DNI: 47826468S... dn is: cn=Tània Talarn Tomàs,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/47629520Q.png
+Searching DNI: 47629520Q... dn is: cn=Juan Alerany Quixalos,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/36576986V.png
+Searching DNI: 36576986V... dn is: cn=Ivan Martí Cañamero,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/47857392G.png
+Searching DNI: 47857392G... dn is: cn=Jessica Hierro Garcia,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/X3377613V.png
+Searching DNI: X3377613V... dn is: cn=Alina Jirco,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/47859964T.png
+Searching DNI: 47859964T... dn is: cn=Fran Ayuso Jimenez,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/Y0922310R.png
+Searching DNI: Y0922310R... dn is: cn=Natalia Charlotte Monzon,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/X8537563A.png
+Searching DNI: X8537563A...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Secretariat/X8537563A.png
+/home/sergi/prova/TIC2011-12/Secretariat/47855081Q.png
+Searching DNI: 47855081Q... dn is: cn=Judit Masdeu Descarrega,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/X8308889X.png
+Searching DNI: X8308889X...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Secretariat/X8308889X.png
+/home/sergi/prova/TIC2011-12/Secretariat/X5506197C.png
+Searching DNI: X5506197C... dn is: cn=Laura Madalina Oprinca,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/40933565H.png
+Searching DNI: 40933565H... dn is: cn=Maria Merce Tuliesa Granell,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Secretariat/47829799B.png
+Searching DNI: 47829799B... dn is: cn=Cristina Chavalera Llucio,ou=people,ou=Curs 1,ou=Secretariat,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/X5701513G.png
+Searching DNI: X5701513G...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/X5701513G.png
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/52601373M.png
+Searching DNI: 52601373M... dn is: cn=Hector Tomás Bertomeu,ou=people,ou=Curs 1,ou=Eficiència energètica i energia solar tèrmica,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/47629217N.png
+Searching DNI: 47629217N... dn is: cn=Gerard Roca Garcia,ou=people,ou=Curs 1,ou=Eficiència energètica i energia solar tèrmica,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/52602336W.png
+Searching DNI: 52602336W... dn is: cn=Joan Vicenç Fuster Masia,ou=people,ou=Curs 1,ou=Eficiència energètica i energia solar tèrmica,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/47824713P.png
+Searching DNI: 47824713P... dn is: cn=Julià Roselló Davos,ou=people,ou=Curs 1,ou=Eficiència energètica i energia solar tèrmica,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/47825675G.png
+Searching DNI: 47825675G... dn is: cn=Jordi Lapeira Borras,ou=people,ou=Curs 1,ou=Eficiència energètica i energia solar tèrmica,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/47821535G.png
+Searching DNI: 47821535G... dn is: cn=Cesar Castellano Benaiges,ou=people,ou=Curs 1,ou=Eficiència energètica i energia solar tèrmica,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/52307002B.png
+Searching DNI: 52307002B... dn is: cn=Jesús López Luque,ou=people,ou=Curs 1,ou=Eficiència energètica i energia solar tèrmica,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/47936728J.png
+Searching DNI: 47936728J... dn is: cn=Selene Alberich Bosch,ou=people,ou=Curs 1,ou=Eficiència energètica i energia solar tèrmica,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/47626982P.png
+Searching DNI: 47626982P... dn is: cn=Xavier Martí Valldepérez,ou=people,ou=Curs 1,ou=Eficiència energètica i energia solar tèrmica,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/47857898X.png
+Searching DNI: 47857898X...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/47857898X.png
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/47625386E.png
+Searching DNI: 47625386E... dn is: cn=Francisco Margalef Barrera,ou=people,ou=Curs 1,ou=Eficiència energètica i energia solar tèrmica,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/47827557T.png
+Searching DNI: 47827557T... dn is: cn=Romina Llambrich Barberà,ou=people,ou=Curs 1,ou=Eficiència energètica i energia solar tèrmica,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/47857860N.png
+Searching DNI: 47857860N... dn is: cn=Josep Sancho Matamoros,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/47860635G.png
+Searching DNI: 47860635G... dn is: cn=Jose Maria Valls Morales,ou=people,ou=Curs 1,ou=Eficiència energètica i energia solar tèrmica,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/47828884Q.png
+Searching DNI: 47828884Q... dn is: cn=Jordi Castells Ougay,ou=people,ou=Curs 1,ou=Eficiència energètica i energia solar tèrmica,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Eficiència energètica i energia solar tèrmica/52605754Q.png
+Searching DNI: 52605754Q... dn is: cn=Robert Caballé Colomé,ou=people,ou=Curs 1,ou=Eficiència energètica i energia solar tèrmica,ou=Electricitat i electrònica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Projecte d'Edificació/47823718W.png
+Searching DNI: 47823718W... dn is: cn=Josep Sorribes Miró,ou=people,ou=Edificació i obra civil,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Projecte d'Edificació/47859569L.png
+Searching DNI: 47859569L... dn is: cn=Victor Pla Gilabert,ou=people,ou=Edificació i obra civil,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Projecte d'Edificació/52604932E.png
+Searching DNI: 52604932E... dn is: cn=David Granell Font,ou=people,ou=Edificació i obra civil,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Projecte d'Edificació/47828014C.png
+Searching DNI: 47828014C... dn is: cn=Alexandre Masgoret Marti,ou=people,ou=Edificació i obra civil,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Projecte d'Edificació/47859468X.png
+Searching DNI: 47859468X... dn is: cn=Eduard Falco Salinas,ou=people,ou=Edificació i obra civil,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47855452L.png
+Searching DNI: 47855452L... dn is: cn=Maria Queralt Queralt,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/X5797780D.png
+Searching DNI: X5797780D... dn is: cn=Mohammed El Mamoun,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47863407Q.png
+Searching DNI: 47863407Q... dn is: cn=Raquel Pons De Prado,ou=people,ou=Curs 2,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47860567M.png
+Searching DNI: 47860567M... dn is: cn=Aaron Rillo Albert,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47477089Y.png
+Searching DNI: 47477089Y... dn is: cn=Maria Isabel Lima Valarezo,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/Y0177335L.png
+Searching DNI: Y0177335L... dn is: cn=Sandra Milena Luzano Marin,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47826559Z.png
+Searching DNI: 47826559Z... dn is: cn=Jaquelina Roig Montoro,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47936192Y.png
+Searching DNI: 47936192Y... dn is: cn=Martí Ramon Farga,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47829678M.png
+Searching DNI: 47829678M... dn is: cn=Christian Sebastián Subirats,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47858537E.png
+Searching DNI: 47858537E... dn is: cn=Irina Garcia Noll,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47936859Y.png
+Searching DNI: 47936859Y... dn is: cn=Gemma Ferré Viña,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/X89879770F.png
+Searching DNI: X89879770F...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/X89879770F.png
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47627679S.png
+Searching DNI: 47627679S... dn is: cn=Maria Cinta Calvet Pla,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/52607626W.png
+Searching DNI: 52607626W... dn is: cn=Beatriz Ruiz Lacambra,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/38096509E.png
+Searching DNI: 38096509E... dn is: cn=Yuma Ema Hayter,ou=people,ou=Curs 2,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47826104L.png
+Searching DNI: 47826104L... dn is: cn=Ursula Peinado Aguilo,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/40935215E.png
+Searching DNI: 40935215E... dn is: cn=Maria Teresa Bonfill Viña,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47625995X.png
+Searching DNI: 47625995X... dn is: cn=Alia Palacio Moya,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47856025V.png
+Searching DNI: 47856025V... dn is: cn=Cristina Sancho Salvador,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47936194P.png
+Searching DNI: 47936194P... dn is: cn=Carla Colomines Chavarria,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47827127F.png
+Searching DNI: 47827127F... dn is: cn=Sara Marti Muntane,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/45855260E.png
+Searching DNI: 45855260E... dn is: cn=Laia Cabrera Marcet,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47481699Q.png
+Searching DNI: 47481699Q... dn is: cn=Liliana Fernanda Calle León,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47828899P.png
+Searching DNI: 47828899P... dn is: cn=Montse Casanova Vilar,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47938651G.png
+Searching DNI: 47938651G...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47938651G.png
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47858444K.png
+Searching DNI: 47858444K... dn is: cn=Diandra Monfort Ferre,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47938236A.png
+Searching DNI: 47938236A... dn is: cn=Marta Pastor Cazalla,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Laboratori de diagnòstic clínic/47937035K.png
+Searching DNI: 47937035K... dn is: cn=Pau  Lleixà Duran,ou=people,ou=Curs 1,ou=Laboratori de diagnòstic clínic,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Prog. de la producció en fabricació mecànica/47829184V.png
+Searching DNI: 47829184V... dn is: cn=Antoni Piñol Benito,ou=people,ou=Curs 1,ou=Prog. de la producció en fabricació mecànica,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Prog. de la producció en fabricació mecànica/47829665S.png
+Searching DNI: 47829665S... dn is: cn=Miquel Olaya Blasco,ou=people,ou=Curs 1,ou=Prog. de la producció en fabricació mecànica,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Prog. de la producció en fabricació mecànica/52600198A.png
+Searching DNI: 52600198A... dn is: cn=Javier Figueras Iribarren,ou=people,ou=Curs 1,ou=Prog. de la producció en fabricació mecànica,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Prog. de la producció en fabricació mecànica/47627621A.png
+Searching DNI: 47627621A... dn is: cn=Agustí Aspa Lleixà,ou=people,ou=Curs 1,ou=Prog. de la producció en fabricació mecànica,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Prog. de la producció en fabricació mecànica/47713827M.png
+Searching DNI: 47713827M... dn is: cn=Oriol Diego Grau,ou=people,ou=Curs 1,ou=Prog. de la producció en fabricació mecànica,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47857579F.png
+Searching DNI: 47857579F... dn is: cn=Alba Cid Miró,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47827730N.png
+Searching DNI: 47827730N... dn is: cn=Albert Benet Gomez,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47829949T.png.png
+Searching DNI: 47829949T.png...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47829949T.png.png
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47858912Y.png
+Searching DNI: 47858912Y... dn is: cn=Andrea Antó Sérvulo,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47828239S.png
+Searching DNI: 47828239S... dn is: cn=Veronica Albesa Perez,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47855682L.png
+Searching DNI: 47855682L... dn is: cn=Lourdes Tort Peris,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/X7854431T.png
+Searching DNI: X7854431T... dn is: cn=Oleksande Mykyforenko,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/40915947M.png
+Searching DNI: 40915947M... dn is: cn=Maria Teresa Grau Bel,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47824961A.png
+Searching DNI: 47824961A... dn is: cn=Cristofer Melich Pallarés,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47937936W.png
+Searching DNI: 47937936W... dn is: cn=Nuria Fosch Curto,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47827020S.png
+Searching DNI: 47827020S... dn is: cn=Ruben Gilabert Escribano,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47856358M.png
+Searching DNI: 47856358M... dn is: cn=Sandra Corella Panisello,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47937964F.png
+Searching DNI: 47937964F... dn is: cn=Joan Benet Espuny,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47938560M.png
+Searching DNI: 47938560M... dn is: cn=Marta Pallares Marqués,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47628862W.png
+Searching DNI: 47628862W... dn is: cn=Montserrat Adell Sans,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47829079G.png
+Searching DNI: 47829079G... dn is: cn=Javier López Diaz,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47859080J.png
+Searching DNI: 47859080J... dn is: cn=Laura Rius Bertomeu,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/X9014104J.png
+Searching DNI: X9014104J... dn is: cn=Romina Stephanie Collavino Tinta,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/40926057H.png
+Searching DNI: 40926057H... dn is: cn=Maria Pilar Castella Hierro,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/78583349P.png
+Searching DNI: 78583349P... dn is: cn=Joaquim Chavalera Llucio,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47829155B.png
+Searching DNI: 47829155B... dn is: cn=Cinta Roca Algueró,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Gestió comercial i màrqueting/47829788T.png
+Searching DNI: 47829788T... dn is: cn=Marc Fabra Franquet,ou=people,ou=Curs 1,ou=Gestió comercial i màrqueting,ou=Comerç i màrqueting,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47629003M.png
+Searching DNI: 47629003M... dn is: cn=Pau Polo del Rio,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47829834T.png
+Searching DNI: 47829834T... dn is: cn=Laura Ramirez Aubanell,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/X9014086H.png
+Searching DNI: X9014086H... dn is: cn=Bryan José Collavino Tinta,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47828736Y.png
+Searching DNI: 47828736Y... dn is: cn=Salvador Peris Beltri,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47937068P.png
+Searching DNI: 47937068P... dn is: cn=Marc Soteros carlos,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47826444Z.png
+Searching DNI: 47826444Z... dn is: cn=Jordi Pujol Falcó,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47829478N.png
+Searching DNI: 47829478N... dn is: cn=Joel Grau Pinyol,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/33954789G.png
+Searching DNI: 33954789G... dn is: cn=Aitor Cobo González,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47861415N.png
+Searching DNI: 47861415N...DNI NOT FOUND! /home/sergi/prova/TIC2011-12/Informàtica ASIX/47861415N.png
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47624439H.png
+Searching DNI: 47624439H... dn is: cn=Jordi Romero Mestre,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47823595V.png
+Searching DNI: 47823595V... dn is: cn=Joan Panisello Montesó,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47823488W.png
+Searching DNI: 47823488W... dn is: cn=Joel Barceló Blanch,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/78089777Q.png
+Searching DNI: 78089777Q... dn is: cn=Montserrat Ardevol Galcera,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47938073R.png
+Searching DNI: 47938073R... dn is: cn=Alexis Sanchez Samarra,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47860201F.png
+Searching DNI: 47860201F... dn is: cn=Pau Curto Calvet,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/52609973A.png
+Searching DNI: 52609973A... dn is: cn=Oscar Adàn Valls,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47938858G.png
+Searching DNI: 47938858G... dn is: cn=Roger Salvadó Bertomeu,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47829898H.png
+Searching DNI: 47829898H... dn is: cn=Ricard Bertomeu Paga,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47823180Q.png
+Searching DNI: 47823180Q... dn is: cn=Luis Javier Caballé Vizcarro,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47821363Q.png
+Searching DNI: 47821363Q... dn is: cn=Maria José Alberich Agramunt,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47476352M.png
+Searching DNI: 47476352M... dn is: cn=Jordi Forés Garcìa,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/47624761H.png
+Searching DNI: 47624761H... dn is: cn=Hugo Rafael Lucas Pedrola,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Informàtica ASIX/40923324E.png
+Searching DNI: 40923324E... dn is: cn=Pilar Maureso Sánchez,ou=people,ou=Curs 1,ou=Informàtica   ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Mecanització/47937380K.png
+Searching DNI: 47937380K... dn is: cn=Felix Gomez Oraa,ou=people,ou=Curs 1,ou=Mecanització,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Mecanització/47823254K.png
+Searching DNI: 47823254K... dn is: cn=Joel Fonollosa Vizcarro,ou=people,ou=Curs 1,ou=Mecanització,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Mecanització/X5204358X.png
+Searching DNI: X5204358X... dn is: cn=Abdelladid Ourhou,ou=people,ou=Curs 1,ou=Mecanització,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Mecanització/47822787Z.png
+Searching DNI: 47822787Z... dn is: cn=Jaume Ariño Garrido,ou=people,ou=Curs 1,ou=Mecanització,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Mecanització/47828487D.png
+Searching DNI: 47828487D... dn is: cn=Enric Sebastià Ferrando,ou=people,ou=Curs 1,ou=Mecanització,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Mecanització/47859461A.png
+Searching DNI: 47859461A... dn is: cn=Joan Francesc Marro Codorniu,ou=people,ou=Curs 1,ou=Mecanització,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Mecanització/47478416E.png
+Searching DNI: 47478416E... dn is: cn=Braddy Serna Gallego,ou=people,ou=Curs 1,ou=Mecanització,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Mecanització/47937007Q.png
+Searching DNI: 47937007Q... dn is: cn=Christian Burgos Perez,ou=people,ou=Curs 1,ou=Mecanització,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Mecanització/47825755S.png
+Searching DNI: 47825755S... dn is: cn=Pau Prades Ferreira,ou=people,ou=Curs 1,ou=Mecanització,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Mecanització/X6031768H.png
+Searching DNI: X6031768H... dn is: cn=Rachid Archoui,ou=people,ou=Curs 1,ou=Mecanització,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Mecanització/39925087P.png
+Searching DNI: 39925087P... dn is: cn=Cristian Blanco Rodriguez,ou=people,ou=Curs 1,ou=Mecanització,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Mecanització/47827811R.png
+Searching DNI: 47827811R... dn is: cn=David Sanchez Moreno,ou=people,ou=Curs 1,ou=Mecanització,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Mecanització/47938301E.png
+Searching DNI: 47938301E... dn is: cn=Adrià Valls Castillo,ou=people,ou=Curs 1,ou=Mecanització,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Mecanització/47936208E.png
+Searching DNI: 47936208E... dn is: cn=Sergi Nieto Franch,ou=people,ou=Curs 1,ou=Mecanització,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Mecanització/47937573F.png
+Searching DNI: 47937573F... dn is: cn=Sergi Montagut Fernandez,ou=people,ou=Curs 1,ou=Mecanització,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Mecanització/X7183079H.png
+Searching DNI: X7183079H... dn is: cn=Ali Hammidan,ou=people,ou=Curs 1,ou=Mecanització,ou=Fabricació mecànica,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/47820270G.png
+Searching DNI: 47820270G... dn is: cn=Joana Vila Casanova,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/47829389S.png
+Searching DNI: 47829389S... dn is: cn=Sergi Mengual Aznar,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/47937144S.png
+Searching DNI: 47937144S... dn is: cn=Marc Panisello Calví,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/X7631191K.png
+Searching DNI: X7631191K... dn is: cn=Carmen Natalia Mos,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/47937734F.png
+Searching DNI: 47937734F... dn is: cn=Andreu Perez Curto,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/X6331580W.png
+Searching DNI: X6331580W... dn is: cn=Karima Ait Baha,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/47629756E.png
+Searching DNI: 47629756E... dn is: cn=Manel Robert Reverté Arlandez,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/77788259H.png
+Searching DNI: 77788259H... dn is: cn=Ariadna Aure Porres,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/47824569W.png
+Searching DNI: 47824569W... dn is: cn=Martí Albuixech Forés,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/47936381B.png
+Searching DNI: 47936381B... dn is: cn=Ainhoa Pascual Ramírez,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/47936916V.png
+Searching DNI: 47936916V... dn is: cn=Jordi Serret Castella,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/47625087E.png
+Searching DNI: 47625087E... dn is: cn=Eladi Galbe Mauri,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/47860480X.png
+Searching DNI: 47860480X... dn is: cn=Nùria Queralt Sans,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/40932841V.png
+Searching DNI: 40932841V... dn is: cn=Maria Cruz Gisbert Reinao,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/52603706S.png
+Searching DNI: 52603706S... dn is: cn=Maria Isabel Riera Hernandez,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/47938542X.png
+Searching DNI: 47938542X... dn is: cn=Joan Enric Guerola Fogàs,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/52601903Y.png
+Searching DNI: 52601903Y... dn is: cn=Daniel Bonfill Prades,ou=people,ou=Curs 2,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/18041022Y.png
+Searching DNI: 18041022Y... dn is: cn=Carolina Ramon Castella,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/RX2689951D.png
+Searching DNI: RX2689951D... dn is: cn=Fatima Sabir+highSchoolUserId=201112-23,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/39893283J.png
+Searching DNI: 39893283J... dn is: cn=Jordi Martí Bargalló,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/47829531L.png
+Searching DNI: 47829531L... dn is: cn=Gerard Madueño Duart,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/X5534969L.png
+Searching DNI: X5534969L... dn is: cn=Zakaria Mansouri,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/47628247P.png
+Searching DNI: 47628247P... dn is: cn=Albert Brunet Ferre,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/X6703867B.png
+Searching DNI: X6703867B... dn is: cn=Adriana Boar,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/44422766Z.png
+Searching DNI: 44422766Z... dn is: cn=Jesus Sanchez Barretu,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/47938866N.png
+Searching DNI: 47938866N... dn is: cn=Anna Alifonso Esteve,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+/home/sergi/prova/TIC2011-12/Emergències Sanitàries/52601150N.png
+Searching DNI: 52601150N... dn is: cn=Elvira Fumado Muria,ou=people,ou=Curs 1,ou=Emergències Sanitàries,ou=Sanitat,ou=Alumnes,ou=All,dc=iesebre,dc=com PHOTO OK!
+Closing connection 

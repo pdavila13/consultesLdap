@@ -1,0 +1,71 @@
+**********************************************
+
+***********************************************
+Searching gidnumber 3020... dn: cn=Ester Berlanga Navarro,ou=people,ou=Grup A,ou=Curs 2,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com GIDNUMBER FOUND! 
+Group dn : cn=lluisalbuixech,ou=groups,ou=Grup A,ou=Curs 1,ou=PPAS,ou=Alumnes,ou=All,dc=iesebre,dc=com
+User dn : cn=Ester Berlanga Navarro,ou=people,ou=Grup A,ou=Curs 2,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com
+Group dn base: ou=Grup A,ou=Curs 1,ou=PPAS,ou=Alumnes,ou=All,dc=iesebre,dc=com
+User dn base: ou=Grup A,ou=Curs 2,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com
+GIDNUMBER NOT OK! 
+trobats: 1
+newrdn: cn=lluisalbuixech
+source: cn=lluisalbuixech,ou=groups,ou=Grup A,ou=Curs 1,ou=PPAS,ou=Alumnes,ou=All,dc=iesebre,dc=com
+basedestination: ou=groups,ou=Grup A,ou=Curs 2,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com
+rdndestination: cn=lluisalbuixech
+GROUP MOVED OK
+**********************************************
+
+--
+**********************************************
+
+***********************************************
+Searching gidnumber 2124... dn: cn=Ramon Montoya Ferré,ou=people,ou=Grup A,ou=Curs 1,ou=Informàtica ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com GIDNUMBER FOUND! 
+Group dn : cn=axelfandos,ou=groups,ou=Grup A,ou=Curs 1,ou=Sistemes microinformàtics i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com
+User dn : cn=Ramon Montoya Ferré,ou=people,ou=Grup A,ou=Curs 1,ou=Informàtica ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com
+Group dn base: ou=Grup A,ou=Curs 1,ou=Sistemes microinformàtics i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com
+User dn base: ou=Grup A,ou=Curs 1,ou=Informàtica ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com
+GIDNUMBER NOT OK! 
+trobats: 1
+newrdn: cn=axelfandos
+source: cn=axelfandos,ou=groups,ou=Grup A,ou=Curs 1,ou=Sistemes microinformàtics i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com
+basedestination: ou=groups,ou=Grup A,ou=Curs 1,ou=Informàtica ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com
+rdndestination: cn=axelfandos
+GROUP MOVED OK
+**********************************************
+
+--
+**********************************************
+
+***********************************************
+Searching gidnumber 2124... dn: cn=Axel Fandos De Rugeriis,ou=people,ou=Grup A,ou=Curs 1,ou=Sistemes microinformàtics i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com GIDNUMBER FOUND! 
+Group dn : cn=axelfandos,ou=groups,ou=Grup A,ou=Curs 1,ou=Informàtica ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com
+User dn : cn=Axel Fandos De Rugeriis,ou=people,ou=Grup A,ou=Curs 1,ou=Sistemes microinformàtics i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com
+Group dn base: ou=Grup A,ou=Curs 1,ou=Informàtica ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com
+User dn base: ou=Grup A,ou=Curs 1,ou=Sistemes microinformàtics i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com
+GIDNUMBER NOT OK! 
+trobats: 1
+newrdn: cn=axelfandos
+source: cn=axelfandos,ou=groups,ou=Grup A,ou=Curs 1,ou=Informàtica ASIX,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com
+basedestination: ou=groups,ou=Grup A,ou=Curs 1,ou=Sistemes microinformàtics i xarxes,ou=Informàtica,ou=Alumnes,ou=All,dc=iesebre,dc=com
+rdndestination: cn=axelfandos
+GROUP MOVED OK
+**********************************************
+
+--
+**********************************************
+
+***********************************************
+Searching gidnumber 3020... dn: cn=Lluís Albuixech Forés,ou=people,ou=Grup A,ou=Curs 1,ou=PPAS,ou=Alumnes,ou=All,dc=iesebre,dc=com GIDNUMBER FOUND! 
+Group dn : cn=lluisalbuixech,ou=groups,ou=Grup A,ou=Curs 2,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com
+User dn : cn=Lluís Albuixech Forés,ou=people,ou=Grup A,ou=Curs 1,ou=PPAS,ou=Alumnes,ou=All,dc=iesebre,dc=com
+Group dn base: ou=Grup A,ou=Curs 2,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com
+User dn base: ou=Grup A,ou=Curs 1,ou=PPAS,ou=Alumnes,ou=All,dc=iesebre,dc=com
+GIDNUMBER NOT OK! 
+trobats: 1
+newrdn: cn=lluisalbuixech
+source: cn=lluisalbuixech,ou=groups,ou=Grup A,ou=Curs 2,ou=Gestió administrativa,ou=Administració,ou=Alumnes,ou=All,dc=iesebre,dc=com
+basedestination: ou=groups,ou=Grup A,ou=Curs 1,ou=PPAS,ou=Alumnes,ou=All,dc=iesebre,dc=com
+rdndestination: cn=lluisalbuixech
+GROUP MOVED OK
+**********************************************
+
