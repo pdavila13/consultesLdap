@@ -15,7 +15,7 @@ ldap_set_option($ds, LDAP_OPT_PROTOCOL_VERSION, 3);
 $password=$PASSWD;
 $dn="cn=admin,dc=iesebre,dc=com";
 
-$basedn="ou=Alumnes,ou=All,dc=iesebre,dc=com";
+$basedn=$ldapconfig['basedn'];
 
 if ($bind=ldap_bind($ds, $dn, $password)) {
   echo("Login correct\n");
