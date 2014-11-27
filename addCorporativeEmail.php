@@ -1,4 +1,7 @@
 <?php
+
+//NOTA: Instal·leu el paquet apt-get install php5-ldap!!!
+
 #IMPORTANT: no poseu les paraules de pas a aquest fitxer:
 include "/etc/paraulesdepas.php";
 
