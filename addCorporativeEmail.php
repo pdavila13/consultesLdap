@@ -6,7 +6,7 @@
 include "/etc/paraulesdepas.php";
 
 
-$ldapconfig['host'] = '192.168.50.30';
+$ldapconfig['host'] = 'localhost';
 #Només cal indicar el port si es diferent del port per defecte
 $ldapconfig['port'] = NULL;
 $ldapconfig['basedn'] = 'ou=Alumnes,ou=All,dc=iesebre,dc=com';
