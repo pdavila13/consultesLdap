@@ -1,0 +1,55 @@
+substr<?php 
+
+#IMPORTANT: no poseu les paraules de pas a aquest fitxer:
+include "/etc/paraulesdepas.php";
+
+
+$ldapconfig['host'] = 'localhost';
+#Només cal indicar el port si es diferent del port per defecte
+$ldapconfig['port'] = NULL;
+$ldapconfig['basedn'] = 'ou=Alumnes,ou=All,dc=iesebre,dc=com';
+
+$ds=ldap_connect($ldapconfig['host'], $ldapconfig['port']);
+
+ldap_set_option($ds, LDAP_OPT_PROTOCOL_VERSION, 3);
+
+$password=$PASSWD;
+$dn="cn=admin,dc=iesebre,dc=com";
+
+$basedn=$ldapconfig['basedn'];
+
+if ($bind=ldap_bind($ds, $dn, $password)) {
+  echo("Login correct\n");
+} else {
+  # Error
+}
+
+$sr=ldap_search($ds, $basedn , "(&(objectClass=posixaccount))", array("cn","uid"));
+
+$info = ldap_get_entries($ds, $sr);
+
+echo $info["count"]." máquinas\n\n";
+
+$ContadorTotal=0;
+
+for ($i=0; $i<$info["count"]; $i++  ) { 
+	$gidNumber=$info[$i]["gidnumber"][0];
+	//$iphostNumber=$info[$i]["iphostnumber"];
+		// el gidNumber 515 es de maquinas
+		if ($gidNumber == "515") {
+		}else{
+			echo "Máquina sin grupo: " . $info[$i]["cn"][0] . "\n";
+			$ContadorTotal++;
+		}
+		if (isset( $info[$i]["iphostnumber"][0]) || $info[$i]["cn"][0] == "pc-imatge$") {
+		}else{
+			//echo "La máquina: " . $info[$i]["cn"][0] . " no tiene IP \n";
+			echo "Máquina sin IP: " . (substr($info[$i]["cn"][0],0,-1)) . "\n";
+			$ContadorTotal++;
+		}
+}
+echo "\n";
+echo $info["count"]." máquinas\n";
+echo $ContadorTotal ." máquinas con problemas\n";
+echo "Finalizado\n";
+?>
